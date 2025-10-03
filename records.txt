@@ -1,0 +1,10 @@
+Alice,20,Computer Science
+Chipo,21,Mechanical Engineering
+David,22,Information Technology
+Bob,21,Teaching
+Bright,25,Electrical Engineering
+Alice,20,Computer Science
+Chipo,21,Mechanical Engineering
+David,22,Information Technology
+Bob,21,Teaching
+Bright,25,Electrical Engineering
