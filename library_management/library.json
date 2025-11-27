@@ -1,0 +1,100 @@
+[
+    {
+        "id": "ICT 111",
+        "title": "INTRODUCTION TO COMPUTERS",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2015",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": "",
+        "student_number": "",
+        "duration": ""
+    },
+    {
+        "id": "ICT 112",
+        "title": "ENTERPERNEURSHIP AND INNOVATION",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2018",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": ""
+    },
+    {
+        "id": "ICT 113",
+        "title": "C.PROGRAMMING",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2013",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": ""
+    },
+    {
+        "id": "ICT 114",
+        "title": "QUANTITATIVE METHOD",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2014",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": ""
+    },
+    {
+        "id": "ICT 115",
+        "title": "OPERATING SYSTEM",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2020",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": ""
+    },
+    {
+        "id": "ICT 211",
+        "title": "DATABASE AND MANAGEMENT",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2015",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": ""
+    },
+    {
+        "id": "ICT 213",
+        "title": "NETWORKING",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2013",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": "",
+        "student_number": "2024066317",
+        "duration": "4"
+    },
+    {
+        "id": "ICT 214",
+        "title": "PROGRAMMING II",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2010",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": ""
+    },
+    {
+        "id": "ICT 215",
+        "title": "COMPUTER ORGANISATION AND ARCHITECTURE",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2016",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": "",
+        "student_number": "",
+        "duration": ""
+    },
+    {
+        "id": "ICT 314",
+        "title": "PROGRAMING III",
+        "author": "ROCKVIEW UNIVERSITY",
+        "year": "2020",
+        "status": "Available",
+        "borrower": "",
+        "date_borrowed": "",
+        "student_number": "",
+        "duration": ""
+    }
+]
